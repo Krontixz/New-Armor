@@ -14,6 +14,10 @@
     "id": "minecraft:leather_chestplate",
     "components": {
       "minecraft:item_model": "krontixz:fire_chestplate",
+      "minecraft:equippable": {
+        "slot": "chest",
+        "asset_id": "krontixz:fire_armor"
+      },
       "minecraft:item_name": "{\"translate\":\"item.krontixz.fire_chestplate\",\"color\":\"gold\",\"italic\":false}"
     }
   }
