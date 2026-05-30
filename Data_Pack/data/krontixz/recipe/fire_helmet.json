@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FDF",
+    "M M"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "F": { "item": "minecraft:fire_charge" },
+    "M": { "item": "minecraft:magma_block" }
+  },
+  "result": {
+    "id": "minecraft:leather_helmet",
+    "components": {
+      "minecraft:item_model": "krontixz:fire_helmet",
+      "minecraft:item_name": "{\"translate\":\"item.krontixz.fire_helmet\",\"color\":\"gold\",\"italic\":false}"
+    }
+  }
+}
