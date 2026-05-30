@@ -14,6 +14,10 @@
     "id": "minecraft:leather_leggings",
     "components": {
       "minecraft:item_model": "krontixz:fire_leggings",
+      "minecraft:equippable": {
+        "slot": "legs",
+        "asset_id": "krontixz:fire_armor"
+      },
       "minecraft:item_name": "{\"translate\":\"item.krontixz.fire_leggings\",\"color\":\"gold\",\"italic\":false}"
     }
   }
