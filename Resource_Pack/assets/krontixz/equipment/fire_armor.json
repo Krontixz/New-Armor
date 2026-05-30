@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "krontixz:fire_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "krontixz:fire_armor_leggings"
+      }
+    ]
+  }
+}
