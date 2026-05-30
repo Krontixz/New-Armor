@@ -1,3 +1,4 @@
+
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
@@ -14,6 +15,10 @@
     "id": "minecraft:leather_boots",
     "components": {
       "minecraft:item_model": "krontixz:fire_boots",
+      "minecraft:equippable": {
+        "slot": "feet",
+        "asset_id": "krontixz:fire_armor"
+      },
       "minecraft:item_name": "{\"translate\":\"item.krontixz.fire_boots\",\"color\":\"gold\",\"italic\":false}"
     }
   }
